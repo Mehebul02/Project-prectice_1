@@ -34,9 +34,14 @@ padding: 40px;
     font-family: 'Lato', sans-serif;
 }
 .composition h2{
-    font-size: 30px;
+    font-size: 20px;
     text-align: center;
-    border-bottom-width: 3px;
+    /* border-bottom-width: 3px;
     border: solid;
-    border-color:red ;
+    border-color:red ; */
+    border-bottom: 3px solid red;
+    right: 0;
+    top: 0;
+   left: 0;
+   
 }
